@@ -1,0 +1,11 @@
+language: java
+
+jdk:
+  - oraclejdk9
+  - openjdk8
+
+notifications:
+  email:
+    - one@example.com
+  on_success: always
+  on_failure: never
